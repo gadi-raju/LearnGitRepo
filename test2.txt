@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is F027-A6F2
+
+ Directory of C:\Users\Shanthi\Desktop\MyGitProject
+
+05/10/2018  10:43 AM    <DIR>          .
+05/10/2018  10:43 AM    <DIR>          ..
+05/09/2018  12:13 PM                22 index.html
+05/09/2018  12:14 PM               389 test1.txt
+05/10/2018  10:43 AM                 0 test2.txt
+               3 File(s)            411 bytes
+               2 Dir(s)  591,631,298,560 bytes free
